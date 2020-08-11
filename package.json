@@ -1,0 +1,23 @@
+{
+  "name": "Capsule8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "roles_spec.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanFagundez/CypressC8.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanFagundez/CypressC8/issues"
+  },
+  "homepage": "https://github.com/JuanFagundez/CypressC8#readme",
+  "dependencies": {
+    "cypress": "^4.12.1"
+  }
+}
